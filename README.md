@@ -28,3 +28,4 @@
  Created new postgres database  
  Changed application host and port  
  Firewall configured to allow ports 2200, 80 and 123
+ SSH switched to non-default port
