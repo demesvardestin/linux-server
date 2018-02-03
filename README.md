@@ -1,7 +1,7 @@
 #### Server Details
 
- IP address: 18.216.134.208 
- SSH Port: 2200 
+ IP address: 18.216.134.208  
+ SSH Port: 2200  
  URL: http://18.216.134.208
  
  
